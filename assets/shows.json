@@ -1,0 +1,729 @@
+{
+    "SpongeBob Squarepants": {
+        "url": "spongebob-squarepants-1999-130782",
+        "website": "nepu.to",
+        "total_seasons": 14,
+        "seasons": {
+            "1": {
+                "episodes": "20"
+            },
+            "2": {
+                "episodes": "18"
+            },
+            "3": {
+                "episodes": "18"
+            },
+            "4": {
+                "episodes": "22"
+            },
+            "5": {
+                "episodes": "26"
+            },
+            "6": {
+                "episodes": "26"
+            },
+            "7": {
+                "episodes": "30"
+            },
+            "8": {
+                "episodes": "47"
+            },
+            "9": {
+                "episodes": "42"
+            },
+            "10": {
+                "episodes": "71"
+            },
+            "11": {
+                "episodes": "54"
+            },
+            "12": {
+                "episodes": "34"
+            },
+            "13": {
+                "episodes": "43"
+            },
+            "14": {
+                "episodes": "9"
+            }
+        }
+    },
+    "Family Guy": {
+        "url": "family-guy-1999-126965",
+        "website": "nepu.to",
+        "total_seasons": 22,
+        "seasons": {
+            "1": {
+                "episodes": "7"
+            },
+            "2": {
+                "episodes": "13"
+            },
+            "3": {
+                "episodes": "16"
+            },
+            "4": {
+                "episodes": "18"
+            },
+            "5": {
+                "episodes": "18"
+            },
+            "6": {
+                "episodes": "12"
+            },
+            "7": {
+                "episodes": "16"
+            },
+            "8": {
+                "episodes": "16"
+            },
+            "9": {
+                "episodes": "18"
+            },
+            "10": {
+                "episodes": "23"
+            },
+            "11": {
+                "episodes": "23"
+            },
+            "12": {
+                "episodes": "23"
+            },
+            "13": {
+                "episodes": "23"
+            },
+            "14": {
+                "episodes": "20"
+            },
+            "15": {
+                "episodes": "20"
+            },
+            "16": {
+                "episodes": "20"
+            },
+            "17": {
+                "episodes": "20"
+            },
+            "18": {
+                "episodes": "20"
+            },
+            "19": {
+                "episodes": "20"
+            },
+            "20": {
+                "episodes": "20"
+            },
+            "21": {
+                "episodes": "20"
+            },
+            "22": {
+                "episodes": "20"
+            }
+        }
+    },
+    "The Simpsons": {
+        "url": "the-simpsons-1989-132332",
+        "website": "nepu.to",
+        "total_seasons": 35,
+        "seasons": {
+            "1": {
+                "episodes": "13"
+            },
+            "2": {
+                "episodes": "22"
+            },
+            "3": {
+                "episodes": "24"
+            },
+            "4": {
+                "episodes": "18"
+            },
+            "5": {
+                "episodes": "22"
+            },
+            "6": {
+                "episodes": "25"
+            },
+            "7": {
+                "episodes": "25"
+            },
+            "8": {
+                "episodes": "25"
+            },
+            "9": {
+                "episodes": "25"
+            },
+            "10": {
+                "episodes": "23"
+            },
+            "11": {
+                "episodes": "22"
+            },
+            "12": {
+                "episodes": "21"
+            },
+            "13": {
+                "episodes": "22"
+            },
+            "14": {
+                "episodes": "22"
+            },
+            "15": {
+                "episodes": "22"
+            },
+            "16": {
+                "episodes": "21"
+            },
+            "17": {
+                "episodes": "22"
+            },
+            "18": {
+                "episodes": "22"
+            },
+            "19": {
+                "episodes": "20"
+            },
+            "20": {
+                "episodes": "23"
+            },
+            "21": {
+                "episodes": "23"
+            },
+            "22": {
+                "episodes": "22"
+            },
+            "23": {
+                "episodes": "22"
+            },
+            "24": {
+                "episodes": "22"
+            },
+            "25": {
+                "episodes": "22"
+            },
+            "26": {
+                "episodes": "22"
+            },
+            "27": {
+                "episodes": "22"
+            },
+            "28": {
+                "episodes": "22"
+            },
+            "29": {
+                "episodes": "21"
+            },
+            "30": {
+                "episodes": "23"
+            },
+            "31": {
+                "episodes": "22"
+            },
+            "32": {
+                "episodes": "22"
+            },
+            "33": {
+                "episodes": "22"
+            },
+            "34": {
+                "episodes": "22"
+            },
+            "35": {
+                "episodes": "22"
+            }
+        }
+    },
+    "The Amazing World of Gumball": {
+        "url": "the-amazing-world-of-gumball-2011-131228",
+        "website": "nepu.to",
+        "total_seasons": 6,
+        "seasons": {
+            "1": {
+                "episodes": "23"
+            },
+            "2": {
+                "episodes": "40"
+            },
+            "3": {
+                "episodes": "40"
+            },
+            "4": {
+                "episodes": "40"
+            },
+            "5": {
+                "episodes": "40"
+            },
+            "6": {
+                "episodes": "10"
+            }
+        }
+    },
+    "Regular Show": {
+        "url": "regular-show-2010-130065",
+        "website": "nepu.to",
+        "total_seasons": 8,
+        "seasons": {
+            "1": {
+                "episodes": "12"
+            },
+            "2": {
+                "episodes": "11"
+            },
+            "3": {
+                "episodes": "12"
+            },
+            "4": {
+                "episodes": "26"
+            },
+            "5": {
+                "episodes": "40"
+            },
+            "6": {
+                "episodes": "30"
+            },
+            "7": {
+                "episodes": "16"
+            },
+            "8": {
+                "episodes": "16"
+            }
+        }
+    },
+    "South Park": {
+        "url": "south-park-1997-130720",
+        "website": "nepu.to",
+        "total_seasons": 26,
+        "seasons": {
+            "1": {
+                "episodes": "13"
+            },
+            "2": {
+                "episodes": "18"
+            },
+            "3": {
+                "episodes": "17"
+            },
+            "4": {
+                "episodes": "17"
+            },
+            "5": {
+                "episodes": "14"
+            },
+            "6": {
+                "episodes": "17"
+            },
+            "7": {
+                "episodes": "15"
+            },
+            "8": {
+                "episodes": "14"
+            },
+            "9": {
+                "episodes": "14"
+            },
+            "10": {
+                "episodes": "14"
+            },
+            "11": {
+                "episodes": "14"
+            },
+            "12": {
+                "episodes": "14"
+            },
+            "13": {
+                "episodes": "14"
+            },
+            "14": {
+                "episodes": "14"
+            },
+            "15": {
+                "episodes": "14"
+            },
+            "16": {
+                "episodes": "14"
+            },
+            "17": {
+                "episodes": "10"
+            },
+            "18": {
+                "episodes": "10"
+            },
+            "19": {
+                "episodes": "10"
+            },
+            "20": {
+                "episodes": "10"
+            },
+            "21": {
+                "episodes": "10"
+            },
+            "22": {
+                "episodes": "10"
+            },
+            "23": {
+                "episodes": "10"
+            },
+            "24": {
+                "episodes": "10"
+            },
+            "25": {
+                "episodes": "10"
+            },
+            "26": {
+                "episodes": "10"
+            }
+        }
+    },
+    "Futurama": {
+        "url": "futurama-1999-127250",
+        "website": "nepu.to",
+        "total_seasons": 9,
+        "seasons": {
+            "1": {
+                "episodes": "13"
+            },
+            "2": {
+                "episodes": "22"
+            },
+            "3": {
+                "episodes": "22"
+            },
+            "4": {
+                "episodes": "18"
+            },
+            "5": {
+                "episodes": "16"
+            },
+            "6": {
+                "episodes": "26"
+            },
+            "7": {
+                "episodes": "26"
+            },
+            "8": {
+                "episodes": "10"
+            },
+            "9": {
+                "episodes": "10"
+            }
+        }
+    },
+    "Kitchen Nightmares": {
+        "url": "kitchen-nightmares-2007-128368",
+        "website": "nepu.to",
+        "total_seasons": 8,
+        "seasons": {
+            "1": {
+                "episodes": "10"
+            },
+            "2": {
+                "episodes": "10"
+            },
+            "3": {
+                "episodes": "13"
+            },
+            "4": {
+                "episodes": "14"
+            },
+            "5": {
+                "episodes": "17"
+            },
+            "6": {
+                "episodes": "16"
+            },
+            "7": {
+                "episodes": "10"
+            },
+            "8": {
+                "episodes": "6"
+            }
+        }
+    },
+    "Trailer Park Boys": {
+        "url": "trailer-park-boys-2001-132757",
+        "website": "nepu.to",
+        "total_seasons": 12,
+        "seasons": {
+            "1": {
+                "episodes": "6"
+            },
+            "2": {
+                "episodes": "7"
+            },
+            "3": {
+                "episodes": "8"
+            },
+            "4": {
+                "episodes": "8"
+            },
+            "5": {
+                "episodes": "10"
+            },
+            "6": {
+                "episodes": "6"
+            },
+            "7": {
+                "episodes": "10"
+            },
+            "8": {
+                "episodes": "10"
+            },
+            "9": {
+                "episodes": "10"
+            },
+            "10": {
+                "episodes": "10"
+            },
+            "11": {
+                "episodes": "10"
+            },
+            "12": {
+                "episodes": "10"
+            }
+        }
+    },
+    "Friends": {
+        "url": "friends-1994-127209",
+        "website": "nepu.to",
+        "total_seasons": 10,
+        "seasons": {
+            "1": {
+                "episodes": "24"
+            },
+            "2": {
+                "episodes": "24"
+            },
+            "3": {
+                "episodes": "25"
+            },
+            "4": {
+                "episodes": "24"
+            },
+            "5": {
+                "episodes": "24"
+            },
+            "6": {
+                "episodes": "25"
+            },
+            "7": {
+                "episodes": "24"
+            },
+            "8": {
+                "episodes": "24"
+            },
+            "9": {
+                "episodes": "24"
+            },
+            "10": {
+                "episodes": "18"
+            }
+        }
+    },
+    "It's Always Sunny in Philadelphia": {
+        "url": "its-always-sunny-in-philadelphia-2005-128095",
+        "website": "nepu.to",
+        "total_seasons": 16,
+        "seasons": {
+            "1": {
+                "episodes": "7"
+            },
+            "2": {
+                "episodes": "10"
+            },
+            "3": {
+                "episodes": "15"
+            },
+            "4": {
+                "episodes": "13"
+            },
+            "5": {
+                "episodes": "12"
+            },
+            "6": {
+                "episodes": "14"
+            },
+            "7": {
+                "episodes": "13"
+            },
+            "8": {
+                "episodes": "10"
+            },
+            "9": {
+                "episodes": "10"
+            },
+            "10": {
+                "episodes": "10"
+            },
+            "11": {
+                "episodes": "10"
+            },
+            "12": {
+                "episodes": "10"
+            },
+            "13": {
+                "episodes": "10"
+            },
+            "14": {
+                "episodes": "10"
+            },
+            "15": {
+                "episodes": "8"
+            },
+            "16": {
+                "episodes": "8"
+            }
+        }
+    },
+    "Chowder": {
+        "url": "chowder-2007-126063",
+        "website": "nepu.to",
+        "total_seasons": 2,
+        "seasons": {
+            "1": {
+                "episodes": "20"
+            },
+            "2": {
+                "episodes": "29"
+            }
+        }
+    },
+    "The Fresh Prince of Bel-Air": {
+        "url": "the-fresh-prince-of-bel-air-1990-131627",
+        "website": "nepu.to",
+        "total_seasons": 6,
+        "seasons": {
+            "1": {
+                "episodes": "25"
+            },
+            "2": {
+                "episodes": "24"
+            },
+            "3": {
+                "episodes": "24"
+            },
+            "4": {
+                "episodes": "26"
+            },
+            "5": {
+                "episodes": "25"
+            },
+            "6": {
+                "episodes": "24"
+            }
+        }
+    },
+    "Seinfeld": {
+        "url": "seinfeld-1989-130448",
+        "total_seasons": 9,
+        "website": "nepu.to",
+        "seasons": {
+            "1": {
+                "episodes": "5"
+            },
+            "2": {
+                "episodes": "12"
+            },
+            "3": {
+                "episodes": "23"
+            },
+            "4": {
+                "episodes": "24"
+            },
+            "5": {
+                "episodes": "22"
+            },
+            "6": {
+                "episodes": "24"
+            },
+            "7": {
+                "episodes": "24"
+            },
+            "8": {
+                "episodes": "22"
+            },
+            "9": {
+                "episodes": "24"
+            }
+        }
+    },
+    "Peep Show": {
+        "url": "815",
+        "total_seasons": 9,
+        "website": "braflix.st",
+        "seasons": {
+            "1": {
+                "episodes": "6"
+            },
+            "2": {
+                "episodes": "6"
+            },
+            "3": {
+                "episodes": "6"
+            },
+            "4": {
+                "episodes": "6"
+            },
+            "5": {
+                "episodes": "6"
+            },
+            "6": {
+                "episodes": "6"
+            },
+            "7": {
+                "episodes": "6"
+            },
+            "8": {
+                "episodes": "6"
+            },
+            "9": {
+                "episodes": "6"
+            }
+        }
+    },
+    "King of the Hill": {
+        "url": "2122",
+        "total_seasons": 13,
+        "website": "braflix.st",
+        "seasons": {
+            "1": {
+                "episodes": "12"
+            },
+            "2": {
+                "episodes": "23"
+            },
+            "3": {
+                "episodes": "25"
+            },
+            "4": {
+                "episodes": "24"
+            },
+            "5": {
+                "episodes": "20"
+            },
+            "6": {
+                "episodes": "22"
+            },
+            "7": {
+                "episodes": "23"
+            },
+            "8": {
+                "episodes": "22"
+            },
+            "9": {
+                "episodes": "15"
+            },
+            "10": {
+                "episodes": "15"
+            },
+            "11": {
+                "episodes": "12"
+            },
+            "12": {
+                "episodes": "22"
+            },
+            "13": {
+                "episodes": "24"
+            }
+        }
+    }
+}
