@@ -2,3 +2,4 @@ build.bat
 main.py
 /CubeTV
 CubeTV.zip
+assets/watched.json

@@ -7,9 +7,10 @@ CubeTV is a desktop application built with Python & PyQt6 that allows users to m
 - **Add TV Shows**: Input show title, total seasons, and select the website.
 - **Play Episodes**: Randomly play episodes from the added shows.
 - **Avoid Reruns**: Option to avoid playing episodes that have already been watched.
-- **Enable/Disable shows in the list**: Customise your viewing experience by only enabling what you want to watch at any point.
+- **Enable/Disable shows in the list**: Customize your viewing experience by only enabling what you want to watch at any point.
 - **Open Shows File**: Easily access the JSON file containing show data.
-- **Automatic Update Checking**: Every time you launch the program it checks the github for any updates, be assured that this is the only web request it makes.
+- **Automatic Update Checking**: Every time you launch the program it checks GitHub for any updates.
+- **Discord Rich Presence**: Allows your friends to see what you're currently watching on CubeTV, you can disable it.
 
 ## Installation
 1. Download the latest release from the [releases page](https://github.com/LeRubix/CubeTV/releases/latest).
@@ -18,9 +19,9 @@ CubeTV is a desktop application built with Python & PyQt6 that allows users to m
 
 ## Usage
 1. Run the application `CubeTV.exe`.
-2. Use the interface to add shows you want to be in the list, i recommend using the show's actual title for the title so the API can retrieve the episode numbers.
+2. Use the interface to add shows you want to be in the list; I recommend using the show's actual title for the title so the API can retrieve the episode numbers.
 3. Click the "Play" button to watch random episodes.
-4. Enable/Disable specific shows at any point in the "Enabled Shows" tab
+4. Enable/Disable specific shows at any point in the "Enabled Shows" tab.
 
 ## File Structure
 - `CubeTV.exe`: The main application file.

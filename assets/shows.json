@@ -684,5 +684,18 @@
                 "episodes": "15"
             }
         }
+    },
+    "Chowder": {
+        "url": "9907",
+        "total_seasons": 2,
+        "website": "BraFlix (braflix.st)",
+        "seasons": {
+            "1": {
+                "episodes": 40
+            },
+            "2": {
+                "episodes": 17
+            }
+        }
     }
 }
