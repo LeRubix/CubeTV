@@ -17,13 +17,15 @@ CubeTV is a desktop application built with Python & PyQt6 that allows users to m
 
 ## Usage
 1. Run the application `CubeTV.exe`.
-2. Use the interface to add shows you want to be in the list
-3. **IMPORTANT:** Open the JSON file and enter how many episodes are in each season, if you don't do this it will assume 10
+2. Use the interface to add shows you want to be in the list, i recommend using the show's actual title for the title so the API can retrieve the episode numbers.
 4. Click the "Play" button to watch random episodes.
 
 ## File Structure
 - `CubeTV.exe`: The main application file.
 - `assets/`: Directory containing files necessary or made by the program.
   - `cubetv.png`: Icon for the application.
-  - `shows.json`: JSON file that stores all of your shows.
+  - `shows.json`: JSON file that stores all of your shows. A pre-made one is included in the assets folder. Edit/Delete it if you want.
   - `watched.json`: JSON file to store watched episodes to (optionally) avoid reruns. To reset you can just delete it or manually edit it.
+
+  https://i.imgur.com/HjhzWAr.png
+  https://i.imgur.com/K9nvjRx.png
