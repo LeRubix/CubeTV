@@ -27,5 +27,5 @@ CubeTV is a desktop application built with Python & PyQt6 that allows users to m
   - `shows.json`: JSON file that stores all of your shows. A pre-made one is included in the assets folder. Edit/Delete it if you want.
   - `watched.json`: JSON file to store watched episodes to (optionally) avoid reruns. To reset you can just delete it or manually edit it.
 
-  https://i.imgur.com/HjhzWAr.png
-  https://i.imgur.com/K9nvjRx.png
+![image](https://github.com/user-attachments/assets/64c32de3-e37a-4b99-bf50-e9f219f868b2)
+![image](https://github.com/user-attachments/assets/ee771bdf-5623-4e57-bd5f-7db026b8ecf9)
