@@ -42,9 +42,6 @@
             },
             "13": {
                 "episodes": 60
-            },
-            "14": {
-                "episodes": null
             }
         }
     },
@@ -230,9 +227,6 @@
             },
             "35": {
                 "episodes": 18
-            },
-            "36": {
-                "episodes": null
             }
         }
     },
@@ -367,7 +361,7 @@
                 "episodes": 10
             },
             "24": {
-                "episodes": null
+                "episodes": 3
             },
             "25": {
                 "episodes": 6
@@ -627,67 +621,67 @@
         "website": "Nepu (nepu.to)",
         "seasons": {
             "1": {
-                "episodes": null
+                "episodes": "24"
             },
             "2": {
-                "episodes": null
+                "episodes": "33"
             },
             "3": {
-                "episodes": null
+                "episodes": "30"
             },
             "4": {
-                "episodes": null
+                "episodes": "38"
             },
             "5": {
-                "episodes": null
+                "episodes": "30"
             },
             "6": {
-                "episodes": null
+                "episodes": "28"
             },
             "7": {
-                "episodes": null
+                "episodes": "34"
             },
             "8": {
-                "episodes": null
+                "episodes": "46"
             },
             "9": {
-                "episodes": null
+                "episodes": "52"
             },
             "10": {
-                "episodes": null
+                "episodes": "44"
             },
             "11": {
-                "episodes": null
+                "episodes": "42"
             },
             "12": {
-                "episodes": 45
+                "episodes": "45"
             },
             "13": {
-                "episodes": 29
+                "episodes": "29"
             },
             "14": {
-                "episodes": 30
+                "episodes": "30"
             },
             "15": {
-                "episodes": null
+                "episodes": "30"
             },
             "16": {
-                "episodes": 20
+                "episodes": "20"
             },
             "17": {
-                "episodes": null
+                "episodes": "28"
             },
             "18": {
-                "episodes": null
+                "episodes": "25"
             },
             "19": {
-                "episodes": null
+                "episodes": "14"
             },
             "20": {
-                "episodes": 13
+                "episodes": "13"
             },
             "21": {
-                "episodes": 15
+                "episodes": "15"
             }
         }
     }
