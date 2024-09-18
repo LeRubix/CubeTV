@@ -1,7 +1,8 @@
 # CubeTV
 
 CubeTV is a desktop application built with Python & PyQt6 that allows users to manage and randomly play their favorite TV shows as if they were actually watching TV. Users can add shows, specify details like total seasons and episodes, and play random episodes while optionally avoiding reruns. <br>
-**IMPORTANT:** A pre-made shows.json file is already included in the assets folder, i only included very popular shows and you can remove and edit them as you wish, or just delete the file entirely if you want.
+> [!IMPORTANT]
+> A pre-made shows.json file is already included in the assets folder, i only included very popular shows and you can remove and edit them as you wish, or just delete the file entirely if you want.
 
 ## Features
 - **Add TV Shows**: Input show title, total seasons, and select the website.
