@@ -12,6 +12,9 @@ CubeTV is a desktop application built with Python & PyQt6 that allows users to m
 - **Open Shows File**: Easily access the JSON file containing show data.
 - **Automatic Update Checking**: Every time you launch the program it checks GitHub for any updates.
 - **Discord Rich Presence**: Allows your friends to see what you're currently watching on CubeTV, you can disable it.
+- **Watch History**: View a list of your watch history and when you watched it.
+- **Watch Shows in Order**: If you don't like randomising episodes, you can decide to watch a random show in order, starting from episode 1.
+- **Colourful Themes**: Instead of the default purple, you can choose one of many colourful themes to spice up your UI!
 
 ## Installation
 1. Download the latest release from the [releases page](https://github.com/LeRubix/CubeTV/releases/latest).
@@ -30,6 +33,8 @@ CubeTV is a desktop application built with Python & PyQt6 that allows users to m
   - `cubetv.png`: Icon for the application.
   - `shows.json`: JSON file that stores all of your shows. A pre-made one is included in the assets folder. Edit/Delete it if you want.
   - `watched.json`: JSON file to store watched episodes to (optionally) avoid reruns. To reset you can just delete it or manually edit it.
+  - `history.json`: JSON file that stores all of your watch history.
+  - `settings.conf`: Config file that stores your settings.
 
 ![image](https://github.com/user-attachments/assets/aa21aeac-9bae-46d3-998f-228c46d59bf6)
 ![image](https://github.com/user-attachments/assets/ed725010-9276-4583-bf80-d4e67a3a5f99)

@@ -1,0 +1,701 @@
+{
+    "SpongeBob Squarepants": {
+        "url": "387",
+        "total_seasons": 14,
+        "website": "BraFlix (braflix.st)",
+        "seasons": {
+            "1": {
+                "episodes": 41
+            },
+            "2": {
+                "episodes": 36
+            },
+            "3": {
+                "episodes": 37
+            },
+            "4": {
+                "episodes": 33
+            },
+            "5": {
+                "episodes": 39
+            },
+            "6": {
+                "episodes": 34
+            },
+            "7": {
+                "episodes": 35
+            },
+            "8": {
+                "episodes": 26
+            },
+            "9": {
+                "episodes": 42
+            },
+            "10": {
+                "episodes": 71
+            },
+            "11": {
+                "episodes": 55
+            },
+            "12": {
+                "episodes": 34
+            },
+            "13": {
+                "episodes": 60
+            }
+        }
+    },
+    "Family Guy": {
+        "url": "1434",
+        "total_seasons": 22,
+        "website": "BraFlix (braflix.st)",
+        "seasons": {
+            "1": {
+                "episodes": 7
+            },
+            "2": {
+                "episodes": 21
+            },
+            "3": {
+                "episodes": 22
+            },
+            "4": {
+                "episodes": 30
+            },
+            "5": {
+                "episodes": 18
+            },
+            "6": {
+                "episodes": 12
+            },
+            "7": {
+                "episodes": 16
+            },
+            "8": {
+                "episodes": 21
+            },
+            "9": {
+                "episodes": 18
+            },
+            "10": {
+                "episodes": 23
+            },
+            "11": {
+                "episodes": 22
+            },
+            "12": {
+                "episodes": 21
+            },
+            "13": {
+                "episodes": 18
+            },
+            "14": {
+                "episodes": 20
+            },
+            "15": {
+                "episodes": 20
+            },
+            "16": {
+                "episodes": 20
+            },
+            "17": {
+                "episodes": 20
+            },
+            "18": {
+                "episodes": 20
+            },
+            "19": {
+                "episodes": 20
+            },
+            "20": {
+                "episodes": 20
+            },
+            "21": {
+                "episodes": 20
+            },
+            "22": {
+                "episodes": 15
+            }
+        }
+    },
+    "The Simpsons": {
+        "url": "456",
+        "total_seasons": 36,
+        "website": "BraFlix (braflix.st)",
+        "seasons": {
+            "1": {
+                "episodes": 13
+            },
+            "2": {
+                "episodes": 22
+            },
+            "3": {
+                "episodes": 24
+            },
+            "4": {
+                "episodes": 22
+            },
+            "5": {
+                "episodes": 22
+            },
+            "6": {
+                "episodes": 25
+            },
+            "7": {
+                "episodes": 25
+            },
+            "8": {
+                "episodes": 25
+            },
+            "9": {
+                "episodes": 25
+            },
+            "10": {
+                "episodes": 23
+            },
+            "11": {
+                "episodes": 22
+            },
+            "12": {
+                "episodes": 21
+            },
+            "13": {
+                "episodes": 22
+            },
+            "14": {
+                "episodes": 22
+            },
+            "15": {
+                "episodes": 22
+            },
+            "16": {
+                "episodes": 21
+            },
+            "17": {
+                "episodes": 22
+            },
+            "18": {
+                "episodes": 22
+            },
+            "19": {
+                "episodes": 20
+            },
+            "20": {
+                "episodes": 21
+            },
+            "21": {
+                "episodes": 23
+            },
+            "22": {
+                "episodes": 22
+            },
+            "23": {
+                "episodes": 22
+            },
+            "24": {
+                "episodes": 22
+            },
+            "25": {
+                "episodes": 22
+            },
+            "26": {
+                "episodes": 22
+            },
+            "27": {
+                "episodes": 22
+            },
+            "28": {
+                "episodes": 22
+            },
+            "29": {
+                "episodes": 21
+            },
+            "30": {
+                "episodes": 23
+            },
+            "31": {
+                "episodes": 22
+            },
+            "32": {
+                "episodes": 22
+            },
+            "33": {
+                "episodes": 22
+            },
+            "34": {
+                "episodes": 22
+            },
+            "35": {
+                "episodes": 18
+            }
+        }
+    },
+    "The Amazing World of Gumball": {
+        "url": "37606",
+        "total_seasons": 6,
+        "website": "BraFlix (braflix.st)",
+        "seasons": {
+            "1": {
+                "episodes": 36
+            },
+            "2": {
+                "episodes": 40
+            },
+            "3": {
+                "episodes": 40
+            },
+            "4": {
+                "episodes": 40
+            },
+            "5": {
+                "episodes": 41
+            },
+            "6": {
+                "episodes": 44
+            }
+        }
+    },
+    "Regular Show": {
+        "url": "31132",
+        "total_seasons": 8,
+        "website": "BraFlix (braflix.st)",
+        "seasons": {
+            "1": {
+                "episodes": 12
+            },
+            "2": {
+                "episodes": 28
+            },
+            "3": {
+                "episodes": 39
+            },
+            "4": {
+                "episodes": 37
+            },
+            "5": {
+                "episodes": 37
+            },
+            "6": {
+                "episodes": 28
+            },
+            "7": {
+                "episodes": 36
+            },
+            "8": {
+                "episodes": 29
+            }
+        }
+    },
+    "South Park": {
+        "url": "2190",
+        "total_seasons": 26,
+        "website": "BraFlix (braflix.st)",
+        "seasons": {
+            "1": {
+                "episodes": 13
+            },
+            "2": {
+                "episodes": 18
+            },
+            "3": {
+                "episodes": 17
+            },
+            "4": {
+                "episodes": 17
+            },
+            "5": {
+                "episodes": 14
+            },
+            "6": {
+                "episodes": 17
+            },
+            "7": {
+                "episodes": 15
+            },
+            "8": {
+                "episodes": 14
+            },
+            "9": {
+                "episodes": 14
+            },
+            "10": {
+                "episodes": 14
+            },
+            "11": {
+                "episodes": 14
+            },
+            "12": {
+                "episodes": 14
+            },
+            "13": {
+                "episodes": 14
+            },
+            "14": {
+                "episodes": 14
+            },
+            "15": {
+                "episodes": 14
+            },
+            "16": {
+                "episodes": 14
+            },
+            "17": {
+                "episodes": 10
+            },
+            "18": {
+                "episodes": 10
+            },
+            "19": {
+                "episodes": 10
+            },
+            "20": {
+                "episodes": 10
+            },
+            "21": {
+                "episodes": 10
+            },
+            "22": {
+                "episodes": 10
+            },
+            "23": {
+                "episodes": 10
+            },
+            "24": {
+                "episodes": 3
+            },
+            "25": {
+                "episodes": 6
+            },
+            "26": {
+                "episodes": 6
+            }
+        }
+    },
+    "Futurama": {
+        "url": "615",
+        "total_seasons": 9,
+        "website": "BraFlix (braflix.st)",
+        "seasons": {
+            "1": {
+                "episodes": 9
+            },
+            "2": {
+                "episodes": 20
+            },
+            "3": {
+                "episodes": 15
+            },
+            "4": {
+                "episodes": 12
+            },
+            "5": {
+                "episodes": 16
+            },
+            "6": {
+                "episodes": 26
+            },
+            "7": {
+                "episodes": 26
+            },
+            "8": {
+                "episodes": ""
+            },
+            "9": {
+                "episodes": ""
+            }
+        }
+    },
+    "Kitchen Nightmares": {
+        "url": "11294",
+        "total_seasons": 6,
+        "website": "BraFlix (braflix.st)",
+        "seasons": {
+            "1": {
+                "episodes": 10
+            },
+            "2": {
+                "episodes": 12
+            },
+            "3": {
+                "episodes": 13
+            },
+            "4": {
+                "episodes": 14
+            },
+            "5": {
+                "episodes": 17
+            },
+            "6": {
+                "episodes": 16
+            }
+        }
+    },
+    "Friends": {
+        "url": "1668",
+        "total_seasons": 10,
+        "website": "BraFlix (braflix.st)",
+        "seasons": {
+            "1": {
+                "episodes": 24
+            },
+            "2": {
+                "episodes": 24
+            },
+            "3": {
+                "episodes": 25
+            },
+            "4": {
+                "episodes": 24
+            },
+            "5": {
+                "episodes": 24
+            },
+            "6": {
+                "episodes": 25
+            },
+            "7": {
+                "episodes": 24
+            },
+            "8": {
+                "episodes": 24
+            },
+            "9": {
+                "episodes": 24
+            },
+            "10": {
+                "episodes": 18
+            }
+        }
+    },
+    "It's Always Sunny in Philadelphia": {
+        "url": "2710",
+        "total_seasons": 16,
+        "website": "BraFlix (braflix.st)",
+        "seasons": {
+            "1": {
+                "episodes": 7
+            },
+            "2": {
+                "episodes": 10
+            },
+            "3": {
+                "episodes": 15
+            },
+            "4": {
+                "episodes": 13
+            },
+            "5": {
+                "episodes": 12
+            },
+            "6": {
+                "episodes": 13
+            },
+            "7": {
+                "episodes": 13
+            },
+            "8": {
+                "episodes": 10
+            },
+            "9": {
+                "episodes": 10
+            },
+            "10": {
+                "episodes": 10
+            },
+            "11": {
+                "episodes": 10
+            },
+            "12": {
+                "episodes": 10
+            },
+            "13": {
+                "episodes": 10
+            },
+            "14": {
+                "episodes": 10
+            },
+            "15": {
+                "episodes": 8
+            },
+            "16": {
+                "episodes": 8
+            }
+        }
+    },
+    "The Fresh Prince of Bel-Air": {
+        "url": "1892",
+        "total_seasons": 6,
+        "website": "BraFlix (braflix.st)",
+        "seasons": {
+            "1": {
+                "episodes": 25
+            },
+            "2": {
+                "episodes": 24
+            },
+            "3": {
+                "episodes": 24
+            },
+            "4": {
+                "episodes": 26
+            },
+            "5": {
+                "episodes": 25
+            },
+            "6": {
+                "episodes": 24
+            }
+        }
+    },
+    "Seinfeld": {
+        "url": "1400",
+        "total_seasons": 9,
+        "website": "BraFlix (braflix.st)",
+        "seasons": {
+            "1": {
+                "episodes": 5
+            },
+            "2": {
+                "episodes": 12
+            },
+            "3": {
+                "episodes": 23
+            },
+            "4": {
+                "episodes": 24
+            },
+            "5": {
+                "episodes": 22
+            },
+            "6": {
+                "episodes": 24
+            },
+            "7": {
+                "episodes": 24
+            },
+            "8": {
+                "episodes": 22
+            },
+            "9": {
+                "episodes": 24
+            }
+        }
+    },
+    "Peep Show": {
+        "url": "815",
+        "total_seasons": 9,
+        "website": "BraFlix (braflix.st)",
+        "seasons": {
+            "1": {
+                "episodes": 6
+            },
+            "2": {
+                "episodes": 6
+            },
+            "3": {
+                "episodes": 6
+            },
+            "4": {
+                "episodes": 6
+            },
+            "5": {
+                "episodes": 6
+            },
+            "6": {
+                "episodes": 6
+            },
+            "7": {
+                "episodes": 6
+            },
+            "8": {
+                "episodes": 6
+            },
+            "9": {
+                "episodes": 6
+            }
+        }
+    },
+    "Pawn Stars": {
+        "url": "pawn-stars-2009-129687",
+        "total_seasons": 21,
+        "website": "Nepu (nepu.to)",
+        "seasons": {
+            "1": {
+                "episodes": "24"
+            },
+            "2": {
+                "episodes": "33"
+            },
+            "3": {
+                "episodes": "30"
+            },
+            "4": {
+                "episodes": "38"
+            },
+            "5": {
+                "episodes": "30"
+            },
+            "6": {
+                "episodes": "28"
+            },
+            "7": {
+                "episodes": "34"
+            },
+            "8": {
+                "episodes": "46"
+            },
+            "9": {
+                "episodes": "52"
+            },
+            "10": {
+                "episodes": "44"
+            },
+            "11": {
+                "episodes": "42"
+            },
+            "12": {
+                "episodes": "45"
+            },
+            "13": {
+                "episodes": "29"
+            },
+            "14": {
+                "episodes": "30"
+            },
+            "15": {
+                "episodes": "30"
+            },
+            "16": {
+                "episodes": "20"
+            },
+            "17": {
+                "episodes": "28"
+            },
+            "18": {
+                "episodes": "25"
+            },
+            "19": {
+                "episodes": "14"
+            },
+            "20": {
+                "episodes": "13"
+            },
+            "21": {
+                "episodes": "15"
+            }
+        }
+    },
+    "Chowder": {
+        "url": "9907",
+        "total_seasons": 2,
+        "website": "BraFlix (braflix.st)",
+        "seasons": {
+            "1": {
+                "episodes": 40
+            },
+            "2": {
+                "episodes": 17
+            }
+        }
+    }
+}
