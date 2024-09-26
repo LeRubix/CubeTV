@@ -38,4 +38,4 @@ CubeTV is a desktop application built with Python & PyQt6 that allows users to m
 
 ![image](https://github.com/user-attachments/assets/aa21aeac-9bae-46d3-998f-228c46d59bf6)
 ![image](https://github.com/user-attachments/assets/ed725010-9276-4583-bf80-d4e67a3a5f99)
-
+![image](https://github.com/user-attachments/assets/891a595f-1849-441e-9761-5b036a014b22)
