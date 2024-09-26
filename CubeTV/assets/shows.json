@@ -1,8 +1,6 @@
 {
     "SpongeBob Squarepants": {
-        "url": "387",
         "total_seasons": 14,
-        "website": "BraFlix (braflix.st)",
         "seasons": {
             "1": {
                 "episodes": 41
@@ -43,12 +41,20 @@
             "13": {
                 "episodes": 60
             }
-        }
+        },
+        "websites": [
+            {
+                "name": "BraFlix (braflix.st)",
+                "url": "387"
+            },
+            {
+                "name": "Nepu (nepu.to)",
+                "url": "spongebob-squarepants-1999-130782"
+            }
+        ]
     },
     "Family Guy": {
-        "url": "1434",
         "total_seasons": 22,
-        "website": "BraFlix (braflix.st)",
         "seasons": {
             "1": {
                 "episodes": 7
@@ -116,12 +122,20 @@
             "22": {
                 "episodes": 15
             }
-        }
+        },
+        "websites": [
+            {
+                "name": "BraFlix (braflix.st)",
+                "url": "1434"
+            },
+            {
+                "name": "Nepu (nepu.to)",
+                "url": "family-guy-1999-126965"
+            }
+        ]
     },
     "The Simpsons": {
-        "url": "456",
         "total_seasons": 36,
-        "website": "BraFlix (braflix.st)",
         "seasons": {
             "1": {
                 "episodes": 13
@@ -228,12 +242,20 @@
             "35": {
                 "episodes": 18
             }
-        }
+        },
+        "websites": [
+            {
+                "name": "BraFlix (braflix.st)",
+                "url": "456"
+            },
+            {
+                "name": "Nepu (nepu.to)",
+                "url": "the-simpsons-1989-132332"
+            }
+        ]
     },
     "The Amazing World of Gumball": {
-        "url": "37606",
         "total_seasons": 6,
-        "website": "BraFlix (braflix.st)",
         "seasons": {
             "1": {
                 "episodes": 36
@@ -253,12 +275,20 @@
             "6": {
                 "episodes": 44
             }
-        }
+        },
+        "websites": [
+            {
+                "name": "BraFlix (braflix.st)",
+                "url": "37606"
+            },
+            {
+                "name": "Nepu (nepu.to)",
+                "url": "the-amazing-world-of-gumball-2011-131228"
+            }
+        ]
     },
     "Regular Show": {
-        "url": "31132",
         "total_seasons": 8,
-        "website": "BraFlix (braflix.st)",
         "seasons": {
             "1": {
                 "episodes": 12
@@ -284,12 +314,20 @@
             "8": {
                 "episodes": 29
             }
-        }
+        },
+        "websites": [
+            {
+                "name": "BraFlix (braflix.st)",
+                "url": "31132"
+            },
+            {
+                "name": "Nepu (nepu.to)",
+                "url": "regular-show-2010-130065"
+            }
+        ]
     },
     "South Park": {
-        "url": "2190",
         "total_seasons": 26,
-        "website": "BraFlix (braflix.st)",
         "seasons": {
             "1": {
                 "episodes": 13
@@ -369,12 +407,20 @@
             "26": {
                 "episodes": 6
             }
-        }
+        },
+        "websites": [
+            {
+                "name": "BraFlix (braflix.st)",
+                "url": "2190"
+            },
+            {
+                "name": "Nepu (nepu.to)",
+                "url": "south-park-1997-130720"
+            }
+        ]
     },
     "Futurama": {
-        "url": "615",
         "total_seasons": 9,
-        "website": "BraFlix (braflix.st)",
         "seasons": {
             "1": {
                 "episodes": 9
@@ -403,12 +449,20 @@
             "9": {
                 "episodes": ""
             }
-        }
+        },
+        "websites": [
+            {
+                "name": "BraFlix (braflix.st)",
+                "url": "615"
+            },
+            {
+                "name": "Nepu (nepu.to)",
+                "url": "futurama-1999-127250"
+            }
+        ]
     },
     "Kitchen Nightmares": {
-        "url": "11294",
         "total_seasons": 6,
-        "website": "BraFlix (braflix.st)",
         "seasons": {
             "1": {
                 "episodes": 10
@@ -428,12 +482,20 @@
             "6": {
                 "episodes": 16
             }
-        }
+        },
+        "websites": [
+            {
+                "name": "BraFlix (braflix.st)",
+                "url": "11294"
+            },
+            {
+                "name": "Nepu (nepu.to)",
+                "url": "kitchen-nightmares-2007-128368"
+            }
+        ]
     },
     "Friends": {
-        "url": "1668",
         "total_seasons": 10,
-        "website": "BraFlix (braflix.st)",
         "seasons": {
             "1": {
                 "episodes": 24
@@ -465,12 +527,20 @@
             "10": {
                 "episodes": 18
             }
-        }
+        },
+        "websites": [
+            {
+                "name": "BraFlix (braflix.st)",
+                "url": "1668"
+            },
+            {
+                "name": "nitestv (nitestv.co)",
+                "url": "friends"
+            }
+        ]
     },
     "It's Always Sunny in Philadelphia": {
-        "url": "2710",
         "total_seasons": 16,
-        "website": "BraFlix (braflix.st)",
         "seasons": {
             "1": {
                 "episodes": 7
@@ -520,12 +590,20 @@
             "16": {
                 "episodes": 8
             }
-        }
+        },
+        "websites": [
+            {
+                "name": "BraFlix (braflix.st)",
+                "url": "2710"
+            },
+            {
+                "name": "Nepu (nepu.to)",
+                "url": "its-always-sunny-in-philadelphia-2005-128095"
+            }
+        ]
     },
     "The Fresh Prince of Bel-Air": {
-        "url": "1892",
         "total_seasons": 6,
-        "website": "BraFlix (braflix.st)",
         "seasons": {
             "1": {
                 "episodes": 25
@@ -545,12 +623,20 @@
             "6": {
                 "episodes": 24
             }
-        }
+        },
+        "websites": [
+            {
+                "name": "BraFlix (braflix.st)",
+                "url": "1892"
+            },
+            {
+                "name": "Nepu (nepu.to)",
+                "url": "the-fresh-prince-of-bel-air-1990-131627"
+            }
+        ]
     },
     "Seinfeld": {
-        "url": "1400",
         "total_seasons": 9,
-        "website": "BraFlix (braflix.st)",
         "seasons": {
             "1": {
                 "episodes": 5
@@ -579,12 +665,20 @@
             "9": {
                 "episodes": 24
             }
-        }
+        },
+        "websites": [
+            {
+                "name": "BraFlix (braflix.st)",
+                "url": "1400"
+            },
+            {
+                "name": "Nepu (nepu.to)",
+                "url": "seinfeld-1989-130448"
+            }
+        ]
     },
     "Peep Show": {
-        "url": "815",
         "total_seasons": 9,
-        "website": "BraFlix (braflix.st)",
         "seasons": {
             "1": {
                 "episodes": 6
@@ -613,12 +707,20 @@
             "9": {
                 "episodes": 6
             }
-        }
+        },
+        "websites": [
+            {
+                "name": "BraFlix (braflix.st)",
+                "url": "815"
+            },
+            {
+                "name": "VidPlay (vidplay.org)",
+                "url": "peep-show-online-free"
+            }
+        ]
     },
     "Pawn Stars": {
-        "url": "pawn-stars-2009-129687",
         "total_seasons": 21,
-        "website": "Nepu (nepu.to)",
         "seasons": {
             "1": {
                 "episodes": "24"
@@ -683,12 +785,20 @@
             "21": {
                 "episodes": "15"
             }
-        }
+        },
+        "websites": [
+            {
+                "name": "Nepu (nepu.to)",
+                "url": "pawn-stars-2009-129687"
+            },
+            {
+                "name": "Rivestream (rivestream.live)",
+                "url": "21755"
+            }
+        ]
     },
     "Chowder": {
-        "url": "9907",
         "total_seasons": 2,
-        "website": "BraFlix (braflix.st)",
         "seasons": {
             "1": {
                 "episodes": 40
@@ -696,6 +806,16 @@
             "2": {
                 "episodes": 17
             }
-        }
+        },
+        "websites": [
+            {
+                "name": "BraFlix (braflix.st)",
+                "url": "9907"
+            },
+            {
+                "name": "Nepu (nepu.to)",
+                "url": "chowder-2007-126063"
+            }
+        ]
     }
 }

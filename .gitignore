@@ -1,7 +1,5 @@
-build.bat
-clean.bat
-main.py
 CubeTV.zip
 CubeTV/assets/watched.json
 CubeTV/assets/history.json
 CubeTV/assets/settings.conf
+dev/
