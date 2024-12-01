@@ -817,5 +817,147 @@
                 "url": "chowder-2007-126063"
             }
         ]
+    },
+    "Top Gear": {
+        "total_seasons": 22,
+        "websites": [
+            {
+                "name": "BraFlix (braflix.st)",
+                "url": "45"
+            },
+            {
+                "name": "Nepu (nepu.to)",
+                "url": "top-gear-2002-132716"
+            }
+        ],
+        "seasons": {
+            "1": {
+                "episodes": 10
+            },
+            "2": {
+                "episodes": 10
+            },
+            "3": {
+                "episodes": 9
+            },
+            "4": {
+                "episodes": 10
+            },
+            "5": {
+                "episodes": 9
+            },
+            "6": {
+                "episodes": 11
+            },
+            "7": {
+                "episodes": 7
+            },
+            "8": {
+                "episodes": 8
+            },
+            "9": {
+                "episodes": 6
+            },
+            "10": {
+                "episodes": 10
+            },
+            "11": {
+                "episodes": 6
+            },
+            "12": {
+                "episodes": 8
+            },
+            "13": {
+                "episodes": 7
+            },
+            "14": {
+                "episodes": 7
+            },
+            "15": {
+                "episodes": 6
+            },
+            "16": {
+                "episodes": 6
+            },
+            "17": {
+                "episodes": 6
+            },
+            "18": {
+                "episodes": 8
+            },
+            "19": {
+                "episodes": 7
+            },
+            "20": {
+                "episodes": 6
+            },
+            "21": {
+                "episodes": 7
+            },
+            "22": {
+                "episodes": 8
+            }
+        }
+    },
+    "iCarly": {
+        "total_seasons": 6,
+        "websites": [
+            {
+                "name": "Rivestream (rivestream.live)",
+                "url": "5371"
+            },
+            {
+                "name": "Nepu (nepu.to)",
+                "url": "icarly-2007-127914"
+            }
+        ],
+        "seasons": {
+            "1": {
+                "episodes": 25
+            },
+            "2": {
+                "episodes": null
+            },
+            "3": {
+                "episodes": null
+            },
+            "4": {
+                "episodes": null
+            },
+            "5": {
+                "episodes": null
+            },
+            "6": {
+                "episodes": null
+            }
+        }
+    },
+    "I Think You Should Leave": {
+        "total_seasons": 3,
+        "websites": [
+            {
+                "name": "BraFlix (braflix.st)",
+                "url": "88728"
+            },
+            {
+                "name": "Nepu (nepu.to)",
+                "url": "i-think-you-should-leave-with-tim-robinson-2019-128094"
+            },
+            {
+                "name": "Rivestream (rivestream.live)",
+                "url": "88728"
+            }
+        ],
+        "seasons": {
+            "1": {
+                "episodes": 6
+            },
+            "2": {
+                "episodes": 6
+            },
+            "3": {
+                "episodes": 6
+            }
+        }
     }
 }
