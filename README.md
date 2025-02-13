@@ -34,8 +34,12 @@ CubeTV is a desktop application built with Python & PyQt6 that allows users to m
   - `shows.json`: JSON file that stores all of your shows. A pre-made one is included in the assets folder. Edit/Delete it if you want.
   - `watched.json`: JSON file to store watched episodes to (optionally) avoid reruns. To reset you can just delete it or manually edit it.
   - `history.json`: JSON file that stores all of your watch history.
-  - `settings.conf`: Config file that stores your settings.
+  - `settings.conf`: Config file that stores your settings.<br>
 
-![image](https://github.com/user-attachments/assets/aa21aeac-9bae-46d3-998f-228c46d59bf6)
-![image](https://github.com/user-attachments/assets/ed725010-9276-4583-bf80-d4e67a3a5f99)
-![image](https://github.com/user-attachments/assets/891a595f-1849-441e-9761-5b036a014b22)
+![image](https://github.com/user-attachments/assets/c67b8c8a-059b-40bf-b6b6-c9a84a1efde1)
+![image](https://github.com/user-attachments/assets/3489d0de-1be2-41a1-8f02-ad3589f03065)
+![image](https://github.com/user-attachments/assets/7bea4370-5285-4cac-8192-d490ce3d83f7)
+![image](https://github.com/user-attachments/assets/d3ada9de-9229-4fa1-85f4-271a256edb14)
+![image](https://github.com/user-attachments/assets/25193e14-483e-45fd-b2ce-2426b192eaab)
+![image](https://github.com/user-attachments/assets/aaddc299-f860-4491-a124-a8235149fe84)
+
